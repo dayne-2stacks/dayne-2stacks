@@ -33,6 +33,14 @@ Generates test vectors using **D-Algorithm, PODEM, and Boolean Satisfiability**,
 
 ### 🔹 [Fingerprint-Matching-Code](https://github.com/dayne-2stacks/Fingerprint-Matching-Code)
 Deep Level-3 fingerprint matching pipeline integrating graph matching and differentiable Sinkhorn algorithms.  
+
+**What this pipeline does:**
+- Builds a graph representation from fingerprint pore features
+- Learns structural correspondences using attention-based graph matching model
+- Uses the Sinkhorn algorithm to compute soft matches
+- Uses attention to differentiably select top K correspondences
+
+![Genuine Match Example](genuine_match.jpg)
 **Tech:** PyTorch, Top-K Matching, CUDA, Optimal Transport
 
 ### 🔹 [Hybrid-Constituency-Parser](https://github.com/dayne-2stacks/parser)
