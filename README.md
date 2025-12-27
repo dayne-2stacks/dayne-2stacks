@@ -17,6 +17,20 @@
 
 ## 🚀 Featured Projects
 
+### 🔹 [Test Generator for VLSI Circuits](https://github.com/dayne-2stacks/test_gen)
+Automatic Test Generator (ATG) for single stuck-at faults — built with Lazar Lazarevic and Dayne Guy.  
+Generates test vectors using **D-Algorithm, PODEM, and Boolean Satisfiability**, with support for fault collapsing and simulation.
+
+📺 **Demo:**  
+[![Watch the video](https://img.youtube.com/vi/i25H0MwtwK0/maxresdefault.jpg)](https://youtu.be/i25H0MwtwK0)
+
+**Key features:**
+- Interactive CLI menu
+- Parses gate-level netlists  
+- Fault collapsing & equivalence detection  
+- Detectable/undetectable fault reporting  
+- Multiple ATG strategies (D-Algo / PODEM / SAT)
+
 ### 🔹 [Fingerprint-Matching-Code](https://github.com/dayne-2stacks/Fingerprint-Matching-Code)
 Deep Level-3 fingerprint matching pipeline integrating graph matching and differentiable Sinkhorn algorithms.  
 **Tech:** PyTorch, Top-K Matching, CUDA, Optimal Transport
@@ -62,17 +76,4 @@ Next.js-based portfolio showcasing AI and hardware projects with interactive com
 
 > _“Bridging symbolic reasoning, neural computation, and hardware acceleration — one model at a time.”_
 
-<!--
-**dayne-2stacks/dayne-2stacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
