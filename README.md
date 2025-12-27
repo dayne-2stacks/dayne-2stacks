@@ -18,7 +18,7 @@
 ## 🚀 Featured Projects
 
 ### 🔹 [Test Generator for VLSI Circuits](https://github.com/dayne-2stacks/test_gen)
-Automatic Test Generator (ATG) for single stuck-at faults — built with Lazar Lazarevic and Dayne Guy.  
+Automatic Test Generator (ATG) for single stuck-at faults — built with Lazar Lazarevic.  
 Generates test vectors using **D-Algorithm, PODEM, and Boolean Satisfiability**, with support for fault collapsing and simulation.
 
 📺 **Demo:**  
