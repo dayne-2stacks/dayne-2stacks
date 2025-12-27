@@ -41,6 +41,7 @@ Deep Level-3 fingerprint matching pipeline integrating graph matching and differ
 - Uses attention to differentiably select top K correspondences
 
 **Genuine Match Example**
+
 ![Genuine Match Example](genuine_match.jpg)
 
 **Tech:** PyTorch, Top-K Matching, CUDA, Optimal Transport
