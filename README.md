@@ -80,7 +80,7 @@ Next.js-based portfolio showcasing AI and hardware projects with interactive com
 
 ## 🧩 Connect With Me
 [💼 LinkedIn](https://linkedin.com/in/dayneguy)  
-[🌐 Portfolio](https://daynegerous.me)  
+[🌐 Portfolio](https://dayngerous.me)  
 [📧 Email](mailto:dayneguy@usf.edu)
 
 ---
